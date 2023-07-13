@@ -1,6 +1,7 @@
 <!-- prettier-ignore-start and welcome -->
 
 Here are :
+- [Shreyash Kalwaghe](https://github.com/skalwaghe-56)
 - [Ryuunicorn](https://github.com/ryuun1corn)
 - [jayasekharreddy-telluri](https://github.com/jayasekharreddy-telluri)
 - [V205Github](https://github.com/V205Github)
@@ -15,6 +16,7 @@ Here are :
 - [abhishek](https://github.com/abhisheksakhare1000)
 - [Mishal Manzoor](https://github.com/mishal55)
 - [Shivam Puri](https://github.com/shivm29)
+- [Jake Hannahan](https://github.com/jake-hannahan)
 - [Ankita Patil](https://github.com/AnkitaPatil2003)
 - [Lebogang Mokoena](https://github.com/manLebza)
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
@@ -2832,6 +2834,7 @@ Athul
 - [Sadim Mali](https://github.com/im-sad-im)
 - [Themms](https://github.com/themm-s)
 - [Gal Fudim](https://github.com/galfudim)
+- [Armin](https://github.com/armin55)
 - [Nafi Rashid Rahim](https://github.com/NafiRahim)
 - [Kayson](https://github.com/Kayson896)
 - [Faheem Mushtaq](https://github.com/FaheemOnHub)
